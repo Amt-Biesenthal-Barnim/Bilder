@@ -1513,7 +1513,7 @@ var APP_DATA = {
       "linkHotspots": [
         {
           "yaw": 0.049947636356705516,
-          "pitch": 0.3927281224375259,,
+          "pitch": 0.3927281224375259,
           "rotation": 0,
           "target": "40-gsaj1032"
         }
