@@ -2617,7 +2617,7 @@ var APP_DATA = {
           "yaw": -0.1699680421152081,
           "pitch": 0.4395894833121101,
           "rotation": 0,
-          "target": "68-gsaj1060"
+          "target": "68-gsaj1061"
         }
       ],
       "infoHotspots": []
